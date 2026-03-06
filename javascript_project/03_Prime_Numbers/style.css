@@ -1,0 +1,48 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+
+body{
+
+background-image: url(pexels-scottwebb-593158.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+height: 100vh;
+overflow: hidden;
+color: white;
+
+}
+
+
+.container{
+
+text-align: center;
+margin-top: 200px;
+
+}
+
+.ads{
+
+  
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+
+.red{
+
+    padding: 8px;
+    background-color: transparent;
+    width: 100px;
+    border-radius: 5px;
+    color: white;
+
+}

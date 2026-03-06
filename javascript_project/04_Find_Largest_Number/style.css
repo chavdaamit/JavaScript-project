@@ -1,0 +1,52 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+
+body{
+
+    background-image: url(pexels-matreding-6184533.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+height: 100vh;
+overflow: hidden;
+color: white;
+
+}
+
+.container{
+
+text-align: center;
+margin-top: 200px;
+
+}
+
+
+.ads{
+
+  
+    width: 400px;
+    height: 400px;
+    margin: auto;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.red{
+
+    padding: 8px;
+    background-color: transparent;
+    color: white;
+    font-size: 20px;
+}
+
+.in{
+
+    width: 300px;
+    height: 30px;
+    text-align: center;
+
+}
